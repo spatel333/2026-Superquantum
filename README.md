@@ -1,4 +1,4 @@
-### iQuHackathon (iQuack) 2026
+# iQuHackathon (iQuack) 2026
 This is my work on Superquantum's problem set at the 2026 MIT Quantum Hackathon.
 
 These problems focus primarily on optimizing the T-count of real world quantum circuits.
@@ -10,4 +10,4 @@ Optimizations comes into play when adressing the number of T-Counts to use, sinc
 
 The Superquantum problem set seeks to replicate this work by showing a series of puzzles which leverage linear algebreic equations to further reduce the number of T Gates (T-count).
 
-## Example: Puzzle 1
+### Example: Puzzle 1
